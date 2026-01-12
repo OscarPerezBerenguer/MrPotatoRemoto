@@ -1,0 +1,4 @@
+brazos
+manos
+piernas
+pies
